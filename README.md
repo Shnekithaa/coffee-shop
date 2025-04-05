@@ -1,6 +1,9 @@
 # Coffee Shop 
 
-Backend service built with the **Catalyst framework (Tata 1mg)**.
+B## deployed link
+  
+  https://sugar-cubes-production.up.railway.app/
+
 
 ## 🚀 Setup
 
@@ -38,3 +41,7 @@ GET /api/products
 
 POST /api/orders
 
+
+
+
+  
