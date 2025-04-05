@@ -39,9 +39,12 @@ server.js – Entry point
 📫 Sample API
 GET /api/products
 
+
 POST /api/orders
 
+```
 
+## Video Recording Link: https://drive.google.com/file/d/1ebDToosbo5Ggu55eADCQqAB86NkCJ9HZ/view?usp=sharing
 
 
   
